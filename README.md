@@ -24,7 +24,7 @@ DoHyun Kim (aka. kimtj12) is a <b>Full Stack</b> developer with experience in th
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtj12&hide_border=false&include_all_commits=true&count_private=true&theme=transparent&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtj12&hide_border=true&include_all_commits=true&count_private=true&theme=transparent)
 
 <br/>
 
