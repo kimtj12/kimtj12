@@ -16,15 +16,15 @@ DoHyun Kim (aka. kimtj12) is a <b>Full Stack</b> developer with experience in th
 
 ### 📊 GitHub Stats :
 
-<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/kimtj12?date=01" width="600" /></a>
+![kimtj12 GitHub Stats](https://server.dooboo.io/github-stats-advanced/kimtj12)
 
-![](https://github-readme-stats.vercel.app/api?username=kimtj12&include_all_commits=true&count_private=true&show_icons=true&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtj12&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=kimtj12&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtj12&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=transparent)
 <br/>
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=kimtj12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kimtj12&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- <img src="https://server.dooboo.io/github-trophies/kimtj12?date=02" width="720" /> -->
 
