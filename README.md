@@ -17,10 +17,15 @@ DoHyun Kim (aka. kimtj12) is a <b>Full Stack</b> developer with experience in th
 ![kimtj12 GitHub Stats](https://server.dooboo.io/github-stats-advanced/kimtj12)
 
 <hr>
+
 ### 📊 GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=kimtj12&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kimtj12&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_border=true)
+
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimtj12&hide_border=false&include_all_commits=true&count_private=true&theme=transparent)
+
 <br/>
 
 ### 🏆 GitHub Trophies
